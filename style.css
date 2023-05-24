@@ -4,10 +4,10 @@ body {
 }
 
 #banner {
-  background-image: url("https://www.freepik.com/free-photo/closeup-shot-many-metal-cans-side-by-side_10991214.htm#query=soda%20can&position=31&from_view=keyword&track=ais");
+  background-image: blue;
   background-size: cover;
   background-position: bottom center;
-  height: 700px;
+  height: 500px;
   width: 100%;
 }
 
@@ -41,6 +41,6 @@ body {
 
 .intro-p {
   color: green;
-  font-size: 24px;
+  font-size: 18px;
 }
   
