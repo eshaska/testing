@@ -1,11 +1,12 @@
 .title {
   color: teal;
 }
-.aboutus {
-  color: maroon;
+a {
+  color: purple;
   font-weight: bold;
 }
-.signup {
-  color: maroon;
+a:hover {
+  color: green;
   font-weight: bold;
 }
+
