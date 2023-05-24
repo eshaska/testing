@@ -17,6 +17,7 @@ body {
   top: 50px;
   width: 600px;
   margin: 0 auto;
+  text-align: center;
 }
 
 .navigation ul {
@@ -36,5 +37,10 @@ body {
   font-size: 18px;
   font-weight: 700;
   letter-spacing: 4px;
+}
+
+.intro-p {
+  color: green;
+  font-size: 24px;
 }
   
