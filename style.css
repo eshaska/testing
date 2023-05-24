@@ -1,7 +1,8 @@
 body {
-  background-color: lightblue;
+  background-color: lightpurple;
   font-family: 'Raleway', sans-serif
 }
+
 #banner {
   background-image: url("https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
   background-size: cover;
@@ -9,6 +10,7 @@ body {
   height: 700px;
   width: 100%;
 }
+
 #banner .content h1 {
   border: 3px solid white;
   position: relative;
@@ -16,7 +18,13 @@ body {
   width: 400px;
   margin: 0 auto;
 }
+
 .subpage {
   color: purple;
   font-weight: bold;
 }
+
+.signup {
+  text-align: center;
+}
+  
