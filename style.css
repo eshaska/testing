@@ -1,5 +1,5 @@
 body {
-  background-color: lightpurple;
+  background-color: lightblue;
   font-family: 'Raleway', sans-serif
 }
 
@@ -49,4 +49,8 @@ body {
 #picuno {
   width: 400px;
   height: 400px;
+}
+
+.smalltext {
+ text-align: center;
 }
