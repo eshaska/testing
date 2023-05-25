@@ -33,6 +33,13 @@ body {
   padding: 20px;
 }
 
+.navigation li:hover {
+  font-weight: 150;
+  letter-spacing: 2px;
+  padding: 20px;
+  color: blue;
+}
+
 .navigation  li.logo {
   color: black;
   font-size: 18px;
