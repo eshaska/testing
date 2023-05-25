@@ -43,6 +43,7 @@ body {
 .intro-p {
   color: black;
   font-size: 16px;
+  text-align: left;
 }
 
 #picuno {
