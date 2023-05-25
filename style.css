@@ -14,10 +14,11 @@ body {
 #banner .content h1 {
   border: 3px solid white;
   position: center;
-  top: 50px;
+  top: 100px;
   width: 600px;
   margin: 0 auto;
   text-align: center;
+  color: white;
 }
 
 .navigation ul {
@@ -40,11 +41,11 @@ body {
 }
 
 .intro-p {
-  color: green;
-  font-size: 18px;
+  color: black;
+  font-size: 16px;
 }
 
 #picuno {
-  width: 200px;
-  height: 200px;
+  width: 400px;
+  height: 400px;
 }
