@@ -58,6 +58,13 @@ body {
   margin: 10px;
 }
 
+.titles {
+  color: purple;
+  font-size: 32px;
+  font-weight: 200;
+  text-align: center;
+}
+
 #picuno {
   width: 400px;
   height: 400px;
