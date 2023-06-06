@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<link href='style.css' rel='stylesheet'>
+<link href="https://fonts.googleapis.com/css?family=Amatic+SC|Raleway:100,200,600,700" rel="stylesheet">
+  
+<body>
 <h1> About Us <h1>
 
 <p> Hello my name is <p>
+</body>
+</html>
