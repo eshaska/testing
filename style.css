@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: lightpurple;
   font-family: 'Raleway', sans-serif
 }
 
@@ -13,18 +13,6 @@ body {
   position: center;
   -->
 }
-
-<!--
-#banner .content h1 {
-  position: center;
-  width: 400px;
-  height: 300px;
-  margin: 0 auto;
-  text-align: center;
-  color: white;
-  font-size: 100px;
-}
--->
 
 .navigation ul {
   margin: 5px;
