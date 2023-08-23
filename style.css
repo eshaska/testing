@@ -13,6 +13,10 @@ body {
 
 }
 
+.girls {
+position: right;
+}
+
 .navigation ul {
   margin: 5px;
   padding: 5px;
