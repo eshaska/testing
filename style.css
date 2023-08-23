@@ -4,15 +4,12 @@ body {
 }
 
 #banner {
-  <a href="https://lh3.googleusercontent.com/pw/AIL4fc_TSdxzTbxm0LfE8bpCLl1uQLRJrom33RRkYkN75Nq6liy8EL6wf8-rbROfx9x3ql8a1wDUTlWLAvCzlE9pkt86yOMMJBmuberQQkvJVY1RXIh-iyY=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AIL4fc_TSdxzTbxm0LfE8bpCLl1uQLRJrom33RRkYkN75Nq6liy8EL6wf8-rbROfx9x3ql8a1wDUTlWLAvCzlE9pkt86yOMMJBmuberQQkvJVY1RXIh-iyY=w1280-515-p-k" /> </a>
-  <!--
-  background-image: url("https://lh3.googleusercontent.com/pw/AIL4fc_TSdxzTbxm0LfE8bpCLl1uQLRJrom33RRkYkN75Nq6liy8EL6wf8-rbROfx9x3ql8a1wDUTlWLAvCzlE9pkt86yOMMJBmuberQQkvJVY1RXIh-iyY=w1280-515-p-k");
+  background-image: url("https://lh3.googleusercontent.com/pw/AIL4fc-3THGx5ThiHCMlTu7oalGtXunl0CYWQcu1DSBbGdhJWVmV3foJC7lqy0hC7Br3QlL-nRaNXua42VAbzwwX4JWmMvhjRe-Re5WyncDXbbNeAvYjke8=w2400");
   background-size: cover;
   background-position: bottom center;
-  height: 300px;
+  <!--height: 300px;
   width: 1500px;
-  position: center;
--->
+  position: center;-->
 }
 
 #banner .content h1 {
