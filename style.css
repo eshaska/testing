@@ -5,7 +5,7 @@ body {
 
 #banner {
   background-image: url("https://lh3.googleusercontent.com/pw/AIL4fc-3THGx5ThiHCMlTu7oalGtXunl0CYWQcu1DSBbGdhJWVmV3foJC7lqy0hC7Br3QlL-nRaNXua42VAbzwwX4JWmMvhjRe-Re5WyncDXbbNeAvYjke8=w500");
-  background-size: 60%;
+  background-size: 50%;
  background-position: center;
   height: 300px;
   width: 1500px;
@@ -81,6 +81,6 @@ body {
 
 .text-box2 p {
   margin: 0; /* Remove default margins */
-  font-size: 16px; /* Adjust the font size */
+  font-size: 20px; /* Adjust the font size */
   color: #333; /* Text color */
 }
