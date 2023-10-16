@@ -5,7 +5,7 @@ body {
 
 #banner {
   background-image: url("https://lh3.googleusercontent.com/pw/AIL4fc-3THGx5ThiHCMlTu7oalGtXunl0CYWQcu1DSBbGdhJWVmV3foJC7lqy0hC7Br3QlL-nRaNXua42VAbzwwX4JWmMvhjRe-Re5WyncDXbbNeAvYjke8=w500");
-  background-size: 70%;
+  background-size: 80%;
  background-position: center;
   height: 300px;
   width: 1500px;
@@ -46,7 +46,7 @@ body {
 
 .text-box {
   position: absolute;
-  top: 800px; /* Adjust the top position as needed */
+  top: 1000px; /* Adjust the top position as needed */
   right: 0; /* Position on the right side */
   width: 300px; /* Set the width of the box */
   background-color: #f1f1f1; /* Background color */
@@ -62,7 +62,7 @@ body {
 
 .text-box2 {
   position: absolute;
-  top: 700px; /* Adjust the top position as needed */
+  top: 1000px; /* Adjust the top position as needed */
   left: 0; /* Position on the left side */
   width: 500px; /* Set the width of the box */
   background-color: #f1f1f1; /* Background color */
