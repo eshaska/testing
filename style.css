@@ -44,11 +44,6 @@ body {
   text-align: center;
 }
 
-#picuno {
-  width: 400px;
-  height: 400px;
-}
-
 .text-box {
   position: absolute;
   top: 200px; /* Adjust the top position as needed */
