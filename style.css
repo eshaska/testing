@@ -1,77 +1,69 @@
 body {
-  background-color: lightpink;
-  font-family: 'Raleway', sans-serif
+  background-color: #f7f7f7;
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 #banner {
-  background-image: url("https://lh3.googleusercontent.com/pw/AIL4fc-3THGx5ThiHCMlTu7oalGtXunl0CYWQcu1DSBbGdhJWVmV3foJC7lqy0hC7Br3QlL-nRaNXua42VAbzwwX4JWmMvhjRe-Re5WyncDXbbNeAvYjke8=w500");
-  background-size: 70%;
- background-position: center;
+  background-image: url('https://via.placeholder.com/1500x300');
+  background-size: cover;
+  background-position: center;
   height: 300px;
-  width: 1500px;
-  position: relative;
-
-}
-
-.girls {
-  top: 0px;
-  left: 0px;
+  width: 100%;
 }
 
 .navigation ul {
-  margin: 5px;
-  padding: 5px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
   text-align: center;
 }
 
 .navigation li {
-  font-weight: 100;
+  display: inline;
+  font-weight: 200;
   letter-spacing: 2px;
   padding: 20px;
 }
 
-.navigation li:hover {
-  font-weight: bold;
-  letter-spacing: 2px;
-  padding: 20px;
-  color: blue;
+.navigation a {
+  text-decoration: none;
+  color: #333;
+  font-size: 18px;
+}
+
+.navigation li:hover a {
+  font-weight: 600;
+  color: #6b4ca7;
 }
 
 .titles {
-  color: purple;
-  font-size: 32px;
-  font-weight: 200;
+  color: #6b4ca7;
+  font-size: 36px;
+  font-weight: 600;
   text-align: center;
+  margin-top: 20px;
 }
 
 .text-box {
-  position: absolute;
-  top: 400px; /* Adjust the top position as needed */
-  right: 0; /* Position on the right side */
-  width: 300px; /* Set the width of the box */
-  background-color: #f1f1f1; /* Background color */
-  padding: 20px; /* Spacing around the text */
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Add a box shadow */
+  position: relative;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  margin-top: 40px;
+}
+
+.text-box h2 {
+  color: #6b4ca7;
+  font-size: 28px;
+  margin: 0 0 20px;
 }
 
 .text-box p {
-  margin: 0; /* Remove default margins */
-  font-size: 16px; /* Adjust the font size */
-  color: #333; /* Text color */
-}
-
-.text-box2 {
-  position: absolute;
-  top: 700px; /* Adjust the top position as needed */
-  left: 0; /* Position on the left side */
-  width: 500px; /* Set the width of the box */
-  background-color: #f1f1f1; /* Background color */
-  padding: 20px; /* Spacing around the text */
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Add a box shadow */
-}
-
-.text-box2 p {
-  margin: 0; /* Remove default margins */
-  font-size: 20px; /* Adjust the font size */
-  color: #333; /* Text color */
+  color: #333;
+  font-size: 18px;
 }
